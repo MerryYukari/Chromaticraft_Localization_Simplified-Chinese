@@ -1,2 +1,2 @@
 # Chromaticraft_Localization_Simplified-Chinese
-Unauthorized Chromaticraft localization project, working on simplified chinese(zh_CN)
+缤纷纪元汉化（zh_CN.lang），未经作者授权
